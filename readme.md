@@ -1,6 +1,6 @@
 **WARNING**: SOLUTION FOR Q3 IS NOT COMPLETE YET. 
 
-<ins>Desc</ins> : Code submission Dabble coding challenge   
+<ins>Desc</ins> : Code submission Dabbel coding challenge   
 <ins>By</ins>: Mukund Jha (jha.mukundmadhav@gmail.com)  
 <ins>Date</ins>: 7 Mar 2022  
 
