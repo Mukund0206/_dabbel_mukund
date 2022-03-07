@@ -1,4 +1,4 @@
-**WARNING**: SOLUTION FOR Q3 IS NOT COMPLETE YET. 
+**WARNING**: SOLUTION to Q1 IS NOT COMPLETE YET. 
 
 <ins>Desc</ins> : Code submission Dabbel coding challenge   
 <ins>By</ins>: Mukund Jha (jha.mukundmadhav@gmail.com)  
